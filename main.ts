@@ -31,6 +31,8 @@ input.onButtonPressed(Button.B, function () {
     basic.showString("noob")
     basic.showString("face plant")
 })
+basic.showString("hello anser my qweshtin crectley I will reprit it 2 times")
 for (let index = 0; index < 2; index++) {
     basic.showString("2.5+2.5=?")
+    basic.showString("b=4  a=6 a+b=5")
 }
